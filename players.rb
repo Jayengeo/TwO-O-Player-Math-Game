@@ -6,4 +6,9 @@ class Player
     @lives = 3
   end
 
+  def score 
+  
+  end
+
 end 
+
